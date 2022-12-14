@@ -1,5 +1,5 @@
 # Test
-docker run -p 80:4000 ipv4check
+docker run -p 80:80 ipv4check
 
 
 # Examples
