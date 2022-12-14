@@ -1,5 +1,12 @@
-# Test
-docker run -p 80:80 ipv4check
+## IPV4Check - An NGINX webserver for reporting back your public IP
+
+
+# Build
+docker build -t ipv4check .
+
+
+# Start
+ docker run -p 80:80 -ti ipv4check
 
 
 # Examples
