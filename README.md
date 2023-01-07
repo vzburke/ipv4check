@@ -1,5 +1,7 @@
 # IPV4Check - Webserver for reporting back ipv4 public IP address in various formats
 
+A simple self hosted website that returns the external IPv4 addresses of visitors in a varity of formats from a web browser or via cURL.
+
 
 ## Build
 ``` docker build -t ipv4check . ```
