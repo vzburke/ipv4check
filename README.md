@@ -2,11 +2,11 @@
 
 
 ## Build
-docker build -t ipv4check .
+``` docker build -t ipv4check . ```
 
 
 ## Start
- docker run -p 80:80 -ti ipv4check
+``` docker run -p 80:80 -ti ipv4check ```
 
 
 ## Examples
